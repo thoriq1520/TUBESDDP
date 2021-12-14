@@ -1,0 +1,8 @@
+		Dengan dibentuknya aplikasi ini, diharapkan admin atau pelanggan terasa dimudahkan dengan adanya 
+		aplikasi ini. Di halaman utama kalian akan melihat 4 menu, disini saya akan menjelaskan menu 1 dan
+		menu 2,jika kalian HANYA ingin melihat daftar buku yang tersedia tekan no 2, tetapi jika kalian ingin 				meminjam buku segera panggil admin, dan admin akan membuka akses untuk menu pinjam dan kembalikan.
+		admin bisa menghapus ataupun menambahkan daftar buku dalam menu admin, dan hanya dilakukan setelah
+		persetujuan manajer
+		INGAT SETIAP KETERLAMBATAN AKAN DIKENAKAN DENDA!
+
+		Terima kasih.
